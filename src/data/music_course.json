@@ -1,0 +1,35 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "intro-to-music-theory",
+        "description": "Explore the fundamentals of music theory with this comprehensive course.",
+        "instructor": "John Smith",
+        "isFeature": true,
+        "price": 49.99,
+        "img": "https://example.com/intro-to-music-theory.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Guitar Basics for Beginners",
+        "slug": "guitar-basics",
+        "description": "Learn the basics of playing the guitar from scratch with hands-on lessons.",
+        "instructor": "Emily Davis",
+        "isFeature": false,
+        "price": 29.99,
+        "img": "https://example.com/guitar-basics.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Piano Masterclass: Advanced Techniques",
+        "slug": "piano-masterclass",
+        "description": "Take your piano skills to the next level with advanced techniques and compositions.",
+        "instructor": "Alex Johnson",
+        "isFeature": true,
+        "price": 79.99,
+        "img": "https://example.com/piano-masterclass.jpg"
+      }
+    ]
+  }
+  
